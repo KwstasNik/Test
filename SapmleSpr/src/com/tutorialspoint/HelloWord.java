@@ -7,6 +7,8 @@ public class HelloWord {
       this.message  = message;
       ///////////hjhjhjh
      // hgjhgjhg
+     //joiuouoiukl;k
+      
    }
 
    public void getMessage(){
