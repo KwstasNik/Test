@@ -5,6 +5,8 @@ public class HelloWord {
 
    public void setMessage(String message){
       this.message  = message;
+      ///////////hjhjhjh
+     // hgjhgjhg
    }
 
    public void getMessage(){
